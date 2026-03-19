@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Exercism Number 1");
+            Console.WriteLine("Exercism Bird Watcher C#");
             Console.ResetColor();
         }
     }

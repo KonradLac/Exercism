@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Exercism Number 3");
+            Console.WriteLine("Exercism Annalyn's Inflitration C#");
             Console.ResetColor();
         }
     }

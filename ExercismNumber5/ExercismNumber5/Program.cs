@@ -8,7 +8,7 @@ namespace ExercismNumber5
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Exercism Number 4");
+            Console.WriteLine("Exercism Squeaky Clean C#");
             Console.ResetColor();
         }
     }
